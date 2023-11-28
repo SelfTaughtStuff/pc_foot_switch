@@ -1,2 +1,3 @@
-# pc_foot_switch
-Foot operated push to talk button using arduino and foot switch
+# PC Foot Switch
+
+Watch the video at: [https://www.youtube.com/watch?v=2ID0_RRU4pk](https://www.youtube.com/watch?v=2ID0_RRU4pk)
